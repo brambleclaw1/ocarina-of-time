@@ -19,4 +19,10 @@ authors="gavin, MCreator"
 
 
 
+[[dependencies.ocarina_of_time]]
+    modId="kleidersplayerrenderer"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
 
